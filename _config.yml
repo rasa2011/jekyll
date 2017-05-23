@@ -54,6 +54,12 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
+# ads
+ads:
+  google:
+    client: "3270694191265322"
+    slot: "6983006294"
+
 # Social Sharing
 twitter:
   username               :

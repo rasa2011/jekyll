@@ -2,7 +2,7 @@
 layout: single
 title: "arashiyama"
 description: ""
-category: 
+category: travel
 tags: []
 ---
 

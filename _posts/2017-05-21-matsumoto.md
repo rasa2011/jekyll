@@ -2,7 +2,7 @@
 layout: single
 title: "matsumoto"
 description: ""
-category: 
+category: travel
 tags: []
 ---
 1. 明神池從左側回來大概要比右側(露營區)多10min

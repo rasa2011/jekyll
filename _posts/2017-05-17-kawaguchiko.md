@@ -2,8 +2,9 @@
 layout: single
 title: "kawaguchiko"
 description: ""
-category: 
-tags: []
+category: travel
+# permalink: /categories/
+tags: [japan, travel]
 ---
 
 1. 如果不要買周遊卷的話可以在 [富士急山梨][1] 網頁上可以看到

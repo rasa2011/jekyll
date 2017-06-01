@@ -240,7 +240,6 @@ collections:
     permalink: /:collection/:path/
 
 
-
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
